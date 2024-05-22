@@ -1,0 +1,21 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+textarea {
+  width: 300px;
+  height: 100px;
+  margin-top: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
